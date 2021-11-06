@@ -7,8 +7,8 @@ body{
     background-color: #19a1ad;
 }
 #body{
-    display: flex;
     position: relative;
+    display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
