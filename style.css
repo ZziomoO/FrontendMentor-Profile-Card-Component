@@ -5,6 +5,12 @@
 }
 body{
     background-color: #19a1ad;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+#body{
     display: flex;
     justify-content: center;
     align-items: center;
